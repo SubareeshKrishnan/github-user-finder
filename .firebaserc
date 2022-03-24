@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "github-app-86260": {
+      "hosting": {
+        "github-login-firebase": [
+          "github-app-86260"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "github-app-86260"
+  }
+}
